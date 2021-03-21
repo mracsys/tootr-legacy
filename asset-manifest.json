@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tootr/static/css/main.1f7c6a94.chunk.css",
-    "main.js": "/tootr/static/js/main.4080f12b.chunk.js",
-    "main.js.map": "/tootr/static/js/main.4080f12b.chunk.js.map",
+    "main.js": "/tootr/static/js/main.021c85f0.chunk.js",
+    "main.js.map": "/tootr/static/js/main.021c85f0.chunk.js.map",
     "runtime-main.js": "/tootr/static/js/runtime-main.bc7e0cbb.js",
     "runtime-main.js.map": "/tootr/static/js/runtime-main.bc7e0cbb.js.map",
     "static/js/2.f409de40.chunk.js": "/tootr/static/js/2.f409de40.chunk.js",
     "static/js/2.f409de40.chunk.js.map": "/tootr/static/js/2.f409de40.chunk.js.map",
     "index.html": "/tootr/index.html",
-    "precache-manifest.0ccc5c01da37187708983c88b7672316.js": "/tootr/precache-manifest.0ccc5c01da37187708983c88b7672316.js",
+    "precache-manifest.1be93401ca5fa51017586f840560a149.js": "/tootr/precache-manifest.1be93401ca5fa51017586f840560a149.js",
     "service-worker.js": "/tootr/service-worker.js",
     "static/css/main.1f7c6a94.chunk.css.map": "/tootr/static/css/main.1f7c6a94.chunk.css.map",
     "static/js/2.f409de40.chunk.js.LICENSE.txt": "/tootr/static/js/2.f409de40.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bc7e0cbb.js",
     "static/js/2.f409de40.chunk.js",
     "static/css/main.1f7c6a94.chunk.css",
-    "static/js/main.4080f12b.chunk.js"
+    "static/js/main.021c85f0.chunk.js"
   ]
 }
