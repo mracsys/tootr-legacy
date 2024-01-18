@@ -65,9 +65,9 @@ class LocationCheck extends React.Component {
                                     name={this.props.location + "shopprice"}
                                     onClick={(e) => {e.stopPropagation()}}
                                     className={this.props.classes.priceBox}
-                                    defaultValue={this.props.allAreas.locations[this.props.location].price === 0 ? "" : this.props.allAreas.locations[this.props.location].price}
-                                    onBlur={(e) => {
-                                        this.props.updateShopPrice(this.props.location,e.currentTarget.value);
+                                    value={this.props.allAreas.locations[this.props.location].price === 0 ? "" : this.props.allAreas.locations[this.props.location].price}
+                                    onChange={(e) => {
+                                        this.props.updateShopPrice(this.props.location, e.currentTarget.value);
                                     }}
                                 /> : null
                             }
