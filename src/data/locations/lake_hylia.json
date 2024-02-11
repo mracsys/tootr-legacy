@@ -1126,7 +1126,7 @@
     "LH Underwater Item": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Ruto's Letter Item",
+      "alias": "Underwater Item",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -1529,7 +1529,7 @@
     "LH Freestanding PoH": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Lab Roof Freestanding",
+      "alias": "Top of Lab",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -1544,7 +1544,7 @@
     "LH GS Bean Patch": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {
@@ -1612,7 +1612,7 @@
     "LH GS Lab Wall": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Child Lab Wall GS",
+      "alias": "Lab Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -1717,7 +1717,7 @@
     "LH GS Small Island": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Child Small Island GS",
+      "alias": "Near Sun Reward",
       "type": "skulltula",
       "settings": [
         {
@@ -1759,7 +1759,7 @@
     "LH GS Tree": {
       "area": "Lake Hylia",
       "lKey": "",
-      "alias": "Adult Top of Tree GS",
+      "alias": "Top of Tree",
       "type": "skulltula",
       "settings": [
         {
@@ -1972,7 +1972,7 @@
     "LH GS Lab Crate": {
       "area": "",
       "lKey": "Lake Hylia -> LH Lab",
-      "alias": "Lab Crate GS",
+      "alias": "Lab Crate",
       "type": "skulltula",
       "settings": [
         {
@@ -2707,7 +2707,7 @@
     "LH Child Fishing": {
       "area": "",
       "lKey": "LH Fishing Island -> LH Fishing Hole",
-      "alias": "Child 10 Pound Fish Reward",
+      "alias": "Child Fishing",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -2722,7 +2722,7 @@
     "LH Adult Fishing": {
       "area": "",
       "lKey": "LH Fishing Island -> LH Fishing Hole",
-      "alias": "Adult 16 Pound Fish Reward",
+      "alias": "Adult Fishing",
       "type": "item",
       "settings": [],
       "visible": true,

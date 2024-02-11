@@ -224,7 +224,7 @@
     "LLR GS House Window": {
       "area": "Lon Lon Ranch",
       "lKey": "",
-      "alias": "House Window GS",
+      "alias": "House",
       "type": "skulltula",
       "settings": [
         {
@@ -266,7 +266,7 @@
     "LLR GS Tree": {
       "area": "Lon Lon Ranch",
       "lKey": "",
-      "alias": "Tree Bonk GS",
+      "alias": "Tree Bonk",
       "type": "skulltula",
       "settings": [
         {
@@ -495,7 +495,7 @@
     "LLR GS Rain Shed": {
       "area": "Lon Lon Ranch",
       "lKey": "",
-      "alias": "Back Fence GS",
+      "alias": "Back Fence",
       "type": "skulltula",
       "settings": [
         {
@@ -852,7 +852,7 @@
     "LLR GS Back Wall": {
       "area": "Lon Lon Ranch",
       "lKey": "",
-      "alias": "Back Wall GS",
+      "alias": "Back Wall",
       "type": "skulltula",
       "settings": [
         {

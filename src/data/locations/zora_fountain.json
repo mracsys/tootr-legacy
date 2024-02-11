@@ -201,7 +201,7 @@
     "ZF GS Above the Log": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Above Log GS",
+      "alias": "Above Log",
       "type": "skulltula",
       "settings": [
         {
@@ -243,7 +243,7 @@
     "ZF GS Tree": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Tree Bonk GS",
+      "alias": "Tree Bonk",
       "type": "skulltula",
       "settings": [
         {
@@ -348,7 +348,7 @@
     "ZF Iceberg Freestanding PoH": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Iceberg Freestanding",
+      "alias": "Iceberg",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -915,7 +915,7 @@
     "ZF Bottom Freestanding PoH": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Bottom Center Item",
+      "alias": "Bottom",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -930,7 +930,7 @@
     "ZF Hidden Cave Pot 1": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Adult Hidden Cave Pot 1",
+      "alias": "Hidden Cave Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -956,7 +956,7 @@
     "ZF Hidden Cave Pot 2": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Adult Hidden Cave Pot 2",
+      "alias": "Hidden Cave Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -982,7 +982,7 @@
     "ZF Hidden Cave Pot 3": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Adult Hidden Cave Pot 3",
+      "alias": "Hidden Cave Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -1113,7 +1113,7 @@
     "ZF GS Hidden Cave": {
       "area": "Zora Fountain",
       "lKey": "",
-      "alias": "Adult Hidden Cave GS",
+      "alias": "Hidden Cave",
       "type": "skulltula",
       "settings": [
         {

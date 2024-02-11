@@ -1505,7 +1505,7 @@
     "KF GS Bean Patch": {
       "area": "Kokiri Forest",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {
@@ -1755,7 +1755,7 @@
     "KF GS Know It All House": {
       "area": "Kokiri Forest",
       "lKey": "",
-      "alias": "Child Know It All House GS",
+      "alias": "Know It All House",
       "type": "skulltula",
       "settings": [
         {
@@ -1797,7 +1797,7 @@
     "KF GS House of Twins": {
       "area": "Kokiri Forest",
       "lKey": "",
-      "alias": "Adult House of Twins GS",
+      "alias": "House of Twins",
       "type": "skulltula",
       "settings": [
         {

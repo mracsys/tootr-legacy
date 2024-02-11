@@ -1509,7 +1509,7 @@
     "Kak GS Tree": {
       "area": "Kakariko Village",
       "lKey": "",
-      "alias": "Child Tree Bonk GS",
+      "alias": "Tree Bonk",
       "type": "skulltula",
       "settings": [
         {
@@ -1593,7 +1593,7 @@
     "Kak GS Watchtower": {
       "area": "Kakariko Village",
       "lKey": "",
-      "alias": "Child Watchtower GS",
+      "alias": "Watchtower",
       "type": "skulltula",
       "settings": [
         {
@@ -1635,7 +1635,7 @@
     "Kak GS Skulltula House": {
       "area": "Kakariko Village",
       "lKey": "",
-      "alias": "Child Skulltula House GS",
+      "alias": "Skulltula House",
       "type": "skulltula",
       "settings": [
         {
@@ -1677,7 +1677,7 @@
     "Kak GS House Under Construction": {
       "area": "Kakariko Village",
       "lKey": "",
-      "alias": "Child Construction GS",
+      "alias": "Under Construction",
       "type": "skulltula",
       "settings": [
         {
@@ -1719,7 +1719,7 @@
     "Kak GS Above Impas House": {
       "area": "Kakariko Village",
       "lKey": "",
-      "alias": "Adult Impa's Roof GS",
+      "alias": "Above Impa's House",
       "type": "skulltula",
       "settings": [
         {

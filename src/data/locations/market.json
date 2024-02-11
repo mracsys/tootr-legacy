@@ -1762,7 +1762,7 @@
     "Market GS Guard House": {
       "area": "",
       "lKey": "Market Entrance -> Market Guard House",
-      "alias": "Guard House GS",
+      "alias": "Guard House",
       "type": "skulltula",
       "settings": [
         {
@@ -2125,7 +2125,7 @@
     "OGC GS": {
       "area": "Castle Grounds",
       "lKey": "",
-      "alias": "Outside Ganon's Castle GS",
+      "alias": "On Pillar",
       "type": "skulltula",
       "settings": [
         {
@@ -2193,7 +2193,7 @@
     "HC GS Tree": {
       "area": "Castle Grounds",
       "lKey": "",
-      "alias": "Tree Bonk GS",
+      "alias": "Tree Bonk",
       "type": "skulltula",
       "settings": [
         {
@@ -2789,7 +2789,7 @@
     "HC GS Storms Grotto": {
       "area": "",
       "lKey": "Hyrule Castle Grounds -> HC Storms Grotto",
-      "alias": "Grotto GS",
+      "alias": "Grotto Skull",
       "type": "skulltula",
       "settings": [
         {
@@ -4361,7 +4361,7 @@
     "Market Treasure Chest Game Salesman": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Treasure Chest Game Salesman",
+      "alias": "Salesman",
       "type": "item",
       "settings": [
         {
@@ -4382,7 +4382,7 @@
     "Market Treasure Chest Game Room 1 Bottom": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 1 Bottom Chest",
+      "alias": "Room 1 Bottom",
       "type": "smallKey",
       "settings": [
         {
@@ -4403,7 +4403,7 @@
     "Market Treasure Chest Game Room 1 Top": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 1 Top Chest",
+      "alias": "Room 1 Top",
       "type": "smallKey",
       "settings": [
         {
@@ -4424,7 +4424,7 @@
     "Market Treasure Chest Game Room 2 Bottom": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 2 Bottom Chest",
+      "alias": "Room 2 Bottom",
       "type": "smallKey",
       "settings": [
         {
@@ -4445,7 +4445,7 @@
     "Market Treasure Chest Game Room 2 Top": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 2 Top Chest",
+      "alias": "Room 2 Top",
       "type": "smallKey",
       "settings": [
         {
@@ -4466,7 +4466,7 @@
     "Market Treasure Chest Game Room 3 Bottom": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 3 Bottom Chest",
+      "alias": "Room 3 Bottom",
       "type": "smallKey",
       "settings": [
         {
@@ -4487,7 +4487,7 @@
     "Market Treasure Chest Game Room 3 Top": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 3 Top Chest",
+      "alias": "Room 3 Top",
       "type": "smallKey",
       "settings": [
         {
@@ -4508,7 +4508,7 @@
     "Market Treasure Chest Game Room 4 Bottom": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 4 Bottom Chest",
+      "alias": "Room 4 Bottom",
       "type": "smallKey",
       "settings": [
         {
@@ -4529,7 +4529,7 @@
     "Market Treasure Chest Game Room 4 Top": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 4 Top Chest",
+      "alias": "Room 4 Top",
       "type": "smallKey",
       "settings": [
         {
@@ -4550,7 +4550,7 @@
     "Market Treasure Chest Game Room 5 Bottom": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 5 Bottom Chest",
+      "alias": "Room 5 Bottom",
       "type": "smallKey",
       "settings": [
         {
@@ -4571,7 +4571,7 @@
     "Market Treasure Chest Game Room 5 Top": {
       "area": "",
       "lKey": "Market -> Market Treasure Chest Game",
-      "alias": "Room 5 Top Chest",
+      "alias": "Room 5 Top",
       "type": "smallKey",
       "settings": [
         {

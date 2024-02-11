@@ -285,7 +285,7 @@
     "Wasteland GS": {
       "area": "Haunted Wasteland",
       "lKey": "",
-      "alias": "Hut GS",
+      "alias": "Wasteland Hut",
       "type": "skulltula",
       "settings": [
         {
@@ -327,7 +327,7 @@
     "Wasteland Chest": {
       "area": "Haunted Wasteland",
       "lKey": "",
-      "alias": "Torches Chest",
+      "alias": "Wasteland Chest",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -342,7 +342,7 @@
     "Wasteland Crate Near Colossus": {
       "area": "Haunted Wasteland",
       "lKey": "",
-      "alias": "Phantom Guide Crate",
+      "alias": "Ghost Guide Crate",
       "type": "crate",
       "settings": [
         {

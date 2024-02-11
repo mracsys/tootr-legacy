@@ -139,7 +139,7 @@
     "Ice Cavern Hall Pot 1": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Connecting Hallway Pot 1",
+      "alias": "Spinning Blade Hallway Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -170,7 +170,7 @@
     "Ice Cavern Hall Pot 2": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Connecting Hallway Pot 2",
+      "alias": "Spinning Blade Hallway Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -325,7 +325,7 @@
     "Ice Cavern GS Spinning Scythe Room": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Spinning Blades GS",
+      "alias": "Spinning Blades",
       "type": "skulltula",
       "settings": [
         {
@@ -739,7 +739,7 @@
     "Ice Cavern Map Room Recovery Heart 1": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Freestanding 1",
+      "alias": "Freezard Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -770,7 +770,7 @@
     "Ice Cavern Map Room Recovery Heart 2": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Freestanding 2",
+      "alias": "Freezard Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -801,7 +801,7 @@
     "Ice Cavern Map Room Recovery Heart 3": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Freestanding 3",
+      "alias": "Freezard Freestanding 3",
       "type": "item",
       "settings": [
         {
@@ -832,7 +832,7 @@
     "Ice Cavern Frozen Pot": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Frozen Pot",
+      "alias": "Freezard Pot",
       "type": "jar",
       "settings": [
         {
@@ -962,7 +962,7 @@
     "Ice Cavern Freestanding PoH": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Icicle Room Freestanding Item",
+      "alias": "Freestanding Item",
       "type": "item",
       "settings": [
         {
@@ -983,7 +983,7 @@
     "Ice Cavern GS Heart Piece Room": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Icicle Room GS",
+      "alias": "Near Freestanding Item",
       "type": "skulltula",
       "settings": [
         {
@@ -1035,7 +1035,7 @@
     "Ice Cavern Compass Chest": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Icicle Room Chest",
+      "alias": "Keese Chest",
       "type": "compass",
       "settings": [
         {
@@ -1134,7 +1134,7 @@
     "Ice Cavern GS Push Block Room": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Push Block GS",
+      "alias": "Push Block Room",
       "type": "skulltula",
       "settings": [
         {
@@ -1511,7 +1511,7 @@
     "Ice Cavern Near End Pot 1": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Near End Pot 1",
+      "alias": "Wolfos Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -1542,7 +1542,7 @@
     "Ice Cavern Near End Pot 2": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Near End Pot 2",
+      "alias": "Wolfos Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -1869,7 +1869,7 @@
     "Ice Cavern MQ Center Room Pot 1": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Center Room Pot 1",
+      "alias": "Central Room Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -1900,7 +1900,7 @@
     "Ice Cavern MQ Center Room Pot 2": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Center Room Pot 2",
+      "alias": "Central Room Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2154,7 +2154,7 @@
     "Ice Cavern MQ Compass Room Pot 1": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Pot 1",
+      "alias": "Freezard Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2185,7 +2185,7 @@
     "Ice Cavern MQ Compass Room Pot 2": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Pot 2",
+      "alias": "Freezard Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2294,7 +2294,7 @@
     "Ice Cavern MQ GS Red Ice": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Frozen GS",
+      "alias": "Red Ice",
       "type": "skulltula",
       "settings": [
         {
@@ -2346,7 +2346,7 @@
     "Ice Cavern MQ Freestanding PoH": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Freezard Room Freestanding",
+      "alias": "Freestanding Item",
       "type": "item",
       "settings": [
         {
@@ -2492,7 +2492,7 @@
     "Ice Cavern MQ GS Scarecrow": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Scarecrow Ledge GS",
+      "alias": "Scarecrow",
       "type": "skulltula",
       "settings": [
         {
@@ -2544,7 +2544,7 @@
     "Ice Cavern MQ GS Ice Block": {
       "area": "",
       "lKey": "ZF Ice Ledge -> Ice Cavern Beginning",
-      "alias": "Crystal Switch GS",
+      "alias": "Ice Cage",
       "type": "skulltula",
       "settings": [
         {

@@ -473,7 +473,7 @@
     "GC Rolling Goron as Child": {
       "area": "Goron City",
       "lKey": "",
-      "alias": "Hot Rodder Goron",
+      "alias": "Hot Rod Goron",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -571,7 +571,7 @@
     "GC Maze Left Chest": {
       "area": "Goron City",
       "lKey": "",
-      "alias": "Boulder Maze Left Chest",
+      "alias": "Boulder Maze Left",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -642,7 +642,7 @@
     "GC GS Boulder Maze": {
       "area": "Goron City",
       "lKey": "",
-      "alias": "Child Boulder Maze GS",
+      "alias": "Boulder Maze",
       "type": "skulltula",
       "settings": [
         {
@@ -705,7 +705,7 @@
     "GC GS Center Platform": {
       "area": "Goron City",
       "lKey": "",
-      "alias": "Adult Center Platform GS",
+      "alias": "Center Platform",
       "type": "skulltula",
       "settings": [
         {

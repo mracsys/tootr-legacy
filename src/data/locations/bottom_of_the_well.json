@@ -139,7 +139,7 @@
     "Bottom of the Well Front Left Fake Wall Chest": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Front Left Fake Wall Chest",
+      "alias": "Front Left Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -279,7 +279,7 @@
     "Bottom of the Well Back Left Bombable Chest": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Back Left Bombable Chest",
+      "alias": "Back Bombable Chest",
       "type": "item",
       "settings": [
         {
@@ -331,7 +331,7 @@
     "Bottom of the Well Right Bottom Fake Wall Chest": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Front Right Fake Wall Chest",
+      "alias": "Front Right Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -669,7 +669,7 @@
     "Bottom of the Well GS West Inner Room": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Left Inner Room GS",
+      "alias": "Left Inner Room",
       "type": "skulltula",
       "settings": [
         {
@@ -825,7 +825,7 @@
     "Bottom of the Well GS East Inner Room": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Right Inner Room GS",
+      "alias": "Right Inner Room",
       "type": "skulltula",
       "settings": [
         {
@@ -1080,7 +1080,7 @@
     "Bottom of the Well GS Like Like Cage": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Near Like Like GS",
+      "alias": "Like Like Cage",
       "type": "skulltula",
       "settings": [
         {
@@ -2837,7 +2837,7 @@
     "Bottom of the Well MQ East Inner Room Freestanding Key": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Right Inner Room Freestanding Item",
+      "alias": "Right Center Room Freestanding Item",
       "type": "smallKey",
       "settings": [
         {
@@ -2858,7 +2858,7 @@
     "Bottom of the Well MQ East Inner Room Pot 1": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Right Inner Room Pot 1",
+      "alias": "Right Center Room Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2889,7 +2889,7 @@
     "Bottom of the Well MQ East Inner Room Pot 2": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Right Inner Room Pot 2",
+      "alias": "Right Center Room Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2920,7 +2920,7 @@
     "Bottom of the Well MQ East Inner Room Pot 3": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Right Inner Room Pot 3",
+      "alias": "Right Center Room Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -3185,7 +3185,7 @@
     "Bottom of the Well MQ GS West Inner Room": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Left Inner Room GS",
+      "alias": "Left Center Room",
       "type": "skulltula",
       "settings": [
         {
@@ -3263,7 +3263,7 @@
     "Bottom of the Well MQ GS Coffin Room": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Coffin Room GS",
+      "alias": "Behind Coffins",
       "type": "skulltula",
       "settings": [
         {
@@ -3679,7 +3679,7 @@
     "Bottom of the Well MQ Basement Recovery Heart 1": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Basement Freestanding Item 1",
+      "alias": "Basement 2nd East Branch Item 1",
       "type": "item",
       "settings": [
         {
@@ -3710,7 +3710,7 @@
     "Bottom of the Well MQ Basement Recovery Heart 2": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Basement Freestanding Item 2",
+      "alias": "Basement 2nd East Branch Item 2",
       "type": "item",
       "settings": [
         {
@@ -3741,7 +3741,7 @@
     "Bottom of the Well MQ Basement Recovery Heart 3": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Basement Freestanding Item 3",
+      "alias": "Basement 2nd East Branch Item 3",
       "type": "item",
       "settings": [
         {
@@ -3772,7 +3772,7 @@
     "Bottom of the Well MQ GS Basement": {
       "area": "",
       "lKey": "Kakariko Village -> Bottom of the Well",
-      "alias": "Basement GS",
+      "alias": "Basement",
       "type": "skulltula",
       "settings": [
         {

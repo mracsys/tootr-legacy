@@ -433,7 +433,7 @@
     "GF Chest": {
       "area": "Gerudo Fortress",
       "lKey": "",
-      "alias": "Top of Fortress Chest",
+      "alias": "Top Chest",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -448,7 +448,7 @@
     "GF GS Top Floor": {
       "area": "Gerudo Fortress",
       "lKey": "",
-      "alias": "Top of Fortress GS",
+      "alias": "Top of Fortress",
       "type": "skulltula",
       "settings": [
         {
@@ -1126,7 +1126,7 @@
     "GF GS Archery Range": {
       "area": "Gerudo Fortress",
       "lKey": "",
-      "alias": "Archery Target GS",
+      "alias": "Archery Target",
       "type": "skulltula",
       "settings": [
         {
@@ -2178,7 +2178,7 @@
     "Hideout Break Room Crate 1": {
       "area": "",
       "lKey": "GF North Roof -> Hideout Break Room Lower",
-      "alias": "Crate 1",
+      "alias": "Crate 3",
       "type": "crate",
       "settings": [
         {
@@ -2204,7 +2204,7 @@
     "Hideout Break Room Crate 2": {
       "area": "",
       "lKey": "GF North Roof -> Hideout Break Room Lower",
-      "alias": "Crate 2",
+      "alias": "Crate 4",
       "type": "crate",
       "settings": [
         {

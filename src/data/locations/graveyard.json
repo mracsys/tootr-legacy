@@ -505,7 +505,7 @@
     "Graveyard GS Bean Patch": {
       "area": "Graveyard",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {
@@ -573,7 +573,7 @@
     "Graveyard GS Wall": {
       "area": "Graveyard",
       "lKey": "",
-      "alias": "Child Wall GS",
+      "alias": "Back Wall",
       "type": "skulltula",
       "settings": [
         {

@@ -143,7 +143,7 @@
     "GV GS Small Bridge": {
       "area": "Gerudo Valley",
       "lKey": "",
-      "alias": "Child Board Bridge GS",
+      "alias": "Near Board Bridge",
       "type": "skulltula",
       "settings": [
         {
@@ -206,7 +206,7 @@
     "GV GS Behind Tent": {
       "area": "Gerudo Valley",
       "lKey": "",
-      "alias": "Ault Behind Tent GS",
+      "alias": "Behind Tent",
       "type": "skulltula",
       "settings": [
         {
@@ -248,7 +248,7 @@
     "GV GS Pillar": {
       "area": "Gerudo Valley",
       "lKey": "",
-      "alias": "Rock Arch GS",
+      "alias": "Pillar",
       "type": "skulltula",
       "settings": [
         {
@@ -331,7 +331,7 @@
     "GV Crate Freestanding PoH": {
       "area": "Gerudo Valley",
       "lKey": "",
-      "alias": "Inside West Ledge Crate",
+      "alias": "Inside Ledge Crate",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -361,7 +361,7 @@
     "GV GS Bean Patch": {
       "area": "Gerudo Valley",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {

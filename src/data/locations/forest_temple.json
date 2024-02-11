@@ -80,7 +80,7 @@
     "Forest Temple GS First Room": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Entrance GS",
+      "alias": "Vines",
       "type": "skulltula",
       "settings": [
         {
@@ -132,7 +132,7 @@
     "Forest Temple First Room Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Entrance Tree Chest",
+      "alias": "Tree Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -365,7 +365,7 @@
     "Forest Temple GS Lobby": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Lobby GS",
+      "alias": "Lobby Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -495,7 +495,7 @@
     "Forest Temple First Stalfos Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Lower Stalfos Chest",
+      "alias": "Stalfos 1F Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -739,7 +739,7 @@
     "Forest Temple Map Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Between Courtyards Chest",
+      "alias": "Bubble Chest",
       "type": "map",
       "settings": [
         {
@@ -812,7 +812,7 @@
     "Forest Temple Raised Island Courtyard Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Right Courtyard Island Chest",
+      "alias": "Island Chest",
       "type": "item",
       "settings": [
         {
@@ -833,7 +833,7 @@
     "Forest Temple GS Raised Island Courtyard": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Right Courtyard Island GS",
+      "alias": "Island",
       "type": "skulltula",
       "settings": [
         {
@@ -1072,7 +1072,7 @@
     "Forest Temple Eye Switch Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Block Push Room Eye Switch Chest",
+      "alias": "Eye Switch Chest",
       "type": "item",
       "settings": [
         {
@@ -1249,7 +1249,7 @@
     "Forest Temple Bow Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Chest",
+      "alias": "Stalfos 2F Chest",
       "type": "item",
       "settings": [
         {
@@ -1270,7 +1270,7 @@
     "Forest Temple Upper Stalfos Pot 1": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 1",
+      "alias": "Stalfos 2F Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -1301,7 +1301,7 @@
     "Forest Temple Upper Stalfos Pot 2": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 2",
+      "alias": "Stalfos 2F Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -1332,7 +1332,7 @@
     "Forest Temple Upper Stalfos Pot 3": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 3",
+      "alias": "Stalfos 2F Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -1363,7 +1363,7 @@
     "Forest Temple Upper Stalfos Pot 4": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 4",
+      "alias": "Stalfos 2F Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -1488,7 +1488,7 @@
     "Forest Temple Courtyard Recovery Heart 1": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Balcony Freestanding 1",
+      "alias": "On Pillars 1",
       "type": "item",
       "settings": [
         {
@@ -1519,7 +1519,7 @@
     "Forest Temple Courtyard Recovery Heart 2": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Balcony Freestanding 2",
+      "alias": "On Pillars 2",
       "type": "item",
       "settings": [
         {
@@ -1550,7 +1550,7 @@
     "Forest Temple GS Level Island Courtyard": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Wall GS",
+      "alias": "Columns",
       "type": "skulltula",
       "settings": [
         {
@@ -2163,7 +2163,7 @@
     "Forest Temple GS Basement": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Basement GS",
+      "alias": "Basement",
       "type": "skulltula",
       "settings": [
         {
@@ -2371,7 +2371,7 @@
     "Forest Temple MQ First Room Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Entrance Tree Chest",
+      "alias": "Tree Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -2470,7 +2470,7 @@
     "Forest Temple MQ GS First Hallway": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "First Hallway GS",
+      "alias": "Hallway",
       "type": "skulltula",
       "settings": [
         {
@@ -2781,7 +2781,7 @@
     "Forest Temple MQ Wolfos Room Pot": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Wolfos Pot 1",
+      "alias": "Wolfos Pot",
       "type": "jar",
       "settings": [
         {
@@ -2874,7 +2874,7 @@
     "Forest Temple MQ GS Block Push Room": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Block Push Room GS",
+      "alias": "Block Push Room",
       "type": "skulltula",
       "settings": [
         {
@@ -3051,7 +3051,7 @@
     "Forest Temple MQ Courtyard Recovery Heart 1": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Balcony Freestanding 1",
+      "alias": "Pillars Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -3082,7 +3082,7 @@
     "Forest Temple MQ Courtyard Recovery Heart 2": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Balcony Freestanding 2",
+      "alias": "Pillars Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -3113,7 +3113,7 @@
     "Forest Temple MQ Courtyard Recovery Heart 3": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Balcony Freestanding 3",
+      "alias": "Pillars Freestanding 3",
       "type": "item",
       "settings": [
         {
@@ -3269,7 +3269,7 @@
     "Forest Temple MQ Bow Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Chest",
+      "alias": "Stalfos Chest",
       "type": "item",
       "settings": [
         {
@@ -3290,7 +3290,7 @@
     "Forest Temple MQ Upper Stalfos Pot 1": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 1",
+      "alias": "Stalfos Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3321,7 +3321,7 @@
     "Forest Temple MQ Upper Stalfos Pot 2": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 2",
+      "alias": "Stalfos Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -3352,7 +3352,7 @@
     "Forest Temple MQ Upper Stalfos Pot 3": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 3",
+      "alias": "Stalfos Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -3383,7 +3383,7 @@
     "Forest Temple MQ Upper Stalfos Pot 4": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Upper Stalfos Pot 4",
+      "alias": "Stalfos Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -3513,7 +3513,7 @@
     "Forest Temple MQ GS Raised Island Courtyard": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Right Courtyard Hookshot Target GS",
+      "alias": "Archway",
       "type": "skulltula",
       "settings": [
         {
@@ -3591,7 +3591,7 @@
     "Forest Temple MQ Raised Island Courtyard Upper Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Right Courtyard Balcony Chest",
+      "alias": "Balcony Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -3752,7 +3752,7 @@
     "Forest Temple MQ GS Well": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Well GS",
+      "alias": "Well Grate",
       "type": "skulltula",
       "settings": [
         {
@@ -3804,7 +3804,7 @@
     "Forest Temple MQ GS Level Island Courtyard": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Left Courtyard Above Well GS",
+      "alias": "Top of Well",
       "type": "skulltula",
       "settings": [
         {
@@ -4323,7 +4323,7 @@
     "Forest Temple MQ Raised Island Courtyard Lower Chest": {
       "area": "",
       "lKey": "SFM Forest Temple Entrance Ledge -> Forest Temple Lobby",
-      "alias": "Right Courtyard Island Chest",
+      "alias": "Island Chest",
       "type": "smallKey",
       "settings": [
         {

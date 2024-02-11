@@ -189,7 +189,7 @@
     "DMT GS Near Kak": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Bombable Wall GS",
+      "alias": "Bombable Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -357,7 +357,7 @@
     "DMT GS Bean Patch": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {
@@ -477,7 +477,7 @@
     "DMT Chest": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Bombable Wall Chest",
+      "alias": "Bombable Wall",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -492,7 +492,7 @@
     "DMT GS Above Dodongos Cavern": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Adult Lower Boulder GS",
+      "alias": "Boulder near Cavern",
       "type": "skulltula",
       "settings": [
         {
@@ -534,7 +534,7 @@
     "DMT Freestanding PoH": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Top of Dodongo's Cavern Item",
+      "alias": "Top of Dodongo's Cavern",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -549,7 +549,7 @@
     "DMT GS Falling Rocks Path": {
       "area": "Death Mountain Trail",
       "lKey": "",
-      "alias": "Adult Upper Boulder GS",
+      "alias": "Boulder near Crater",
       "type": "skulltula",
       "settings": [
         {

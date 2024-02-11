@@ -143,7 +143,7 @@
     "DMC GS Crate": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Child Crate GS",
+      "alias": "Crate",
       "type": "skulltula",
       "settings": [
         {
@@ -267,7 +267,7 @@
     "DMC Volcano Freestanding PoH": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Volcano Item",
+      "alias": "Volcano",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -282,7 +282,7 @@
     "DMC GS Bean Patch": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Bean Patch GS",
+      "alias": "Bean Patch",
       "type": "skulltula",
       "settings": [
         {
@@ -740,7 +740,7 @@
     "DMC Near GC Pot 1": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Adult Pot 1",
+      "alias": "Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -766,7 +766,7 @@
     "DMC Near GC Pot 2": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Adult Pot 2",
+      "alias": "Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -792,7 +792,7 @@
     "DMC Near GC Pot 3": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Adult Pot 3",
+      "alias": "Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -818,7 +818,7 @@
     "DMC Near GC Pot 4": {
       "area": "Death Mountain Crater",
       "lKey": "",
-      "alias": "Adult Pot 4",
+      "alias": "Pot 4",
       "type": "jar",
       "settings": [
         {

@@ -453,7 +453,7 @@
     "Spirit Temple Child Bridge Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Bridge Chest",
+      "alias": "Child Loop Left Chest",
       "type": "item",
       "settings": [
         {
@@ -970,7 +970,7 @@
     "Spirit Temple Child Early Torches Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Loop Torches Chest",
+      "alias": "Child Loop Right Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -991,7 +991,7 @@
     "Spirit Temple GS Metal Fence": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Loop GS",
+      "alias": "Early Child",
       "type": "skulltula",
       "settings": [
         {
@@ -1188,7 +1188,7 @@
     "Spirit Temple GS Sun on Floor Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Climb GS",
+      "alias": "Child Climb",
       "type": "skulltula",
       "settings": [
         {
@@ -1665,7 +1665,7 @@
     "Spirit Temple GS Hall After Sun Block Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Knuckle Stairs Sun Block GS",
+      "alias": "Child Knuckle Lobby",
       "type": "skulltula",
       "settings": [
         {
@@ -1717,7 +1717,7 @@
     "Spirit Temple Hall After Sun Block Room Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Knuckle Stairs Pot 1",
+      "alias": "Child Knuckle Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -1748,7 +1748,7 @@
     "Spirit Temple Hall After Sun Block Room Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Knuckle Stairs Pot 2",
+      "alias": "Child Knuckle Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -1857,7 +1857,7 @@
     "Spirit Temple Compass Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Adult Wolfos Chest",
+      "alias": "Early Adult Left Chest",
       "type": "compass",
       "settings": [
         {
@@ -2058,7 +2058,7 @@
     "Spirit Temple GS Boulder Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Rolling Boulders Song of Time GS",
+      "alias": "Adult Song of Time",
       "type": "skulltula",
       "settings": [
         {
@@ -2136,7 +2136,7 @@
     "Spirit Temple Early Adult Right Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Adult Like Like Chest",
+      "alias": "Early Adult Right Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -2271,7 +2271,7 @@
     "Spirit Temple First Mirror Left Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Adult Climb Mirror Chest 1",
+      "alias": "Rotating Mirror Chest 1",
       "type": "item",
       "settings": [
         {
@@ -2292,7 +2292,7 @@
     "Spirit Temple First Mirror Right Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Adult Climb Mirror Chest 2",
+      "alias": "Rotating Mirror Chest 2",
       "type": "item",
       "settings": [
         {
@@ -2365,7 +2365,7 @@
     "Spirit Temple Central Chamber Flying Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Flying Pot 1",
+      "alias": "Statue Flying Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2396,7 +2396,7 @@
     "Spirit Temple Central Chamber Flying Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Flying Pot 2",
+      "alias": "Statue Flying Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2643,7 +2643,7 @@
     "Spirit Temple Map Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Torches Chest",
+      "alias": "Statue Torches Chest",
       "type": "map",
       "settings": [
         {
@@ -2664,7 +2664,7 @@
     "Spirit Temple Statue Room Northeast Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Top Right Chest",
+      "alias": "Central Room Ledge Chest",
       "type": "item",
       "settings": [
         {
@@ -2685,7 +2685,7 @@
     "Spirit Temple Statue Room Hand Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Hand Chest",
+      "alias": "Statue Hand Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -2706,7 +2706,7 @@
     "Spirit Temple GS Lobby": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Top Left GS",
+      "alias": "Central Room Ledge",
       "type": "skulltula",
       "settings": [
         {
@@ -2758,7 +2758,7 @@
     "Spirit Temple Beamos Hall Pot": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Adult Curving Hall Pot",
+      "alias": "Adult Curving Hall Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3023,7 +3023,7 @@
     "Spirit Temple Hallway Right Invisible Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Adult Knuckle Stairs Right Invisible Chest",
+      "alias": "Right Hallway Invisible Chest",
       "type": "item",
       "settings": [
         {
@@ -3044,7 +3044,7 @@
     "Spirit Temple Hallway Left Invisible Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Adult Knuckle Stairs Left Invisible Chest",
+      "alias": "Left Hallway Invisible Chest",
       "type": "item",
       "settings": [
         {
@@ -3408,7 +3408,7 @@
     "Spirit Temple Boss Key Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Boss Key Chest",
+      "alias": "Flame Circle Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -3429,7 +3429,7 @@
     "Spirit Temple Big Mirror Flying Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 1",
+      "alias": "Boss Mirror Flying Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3460,7 +3460,7 @@
     "Spirit Temple Big Mirror Flying Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 2",
+      "alias": "Boss Mirror Flying Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -3491,7 +3491,7 @@
     "Spirit Temple Big Mirror Flying Pot 3": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 3",
+      "alias": "Boss Mirror Flying Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -3522,7 +3522,7 @@
     "Spirit Temple Big Mirror Flying Pot 4": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 4",
+      "alias": "Boss Mirror Flying Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -3553,7 +3553,7 @@
     "Spirit Temple Big Mirror Flying Pot 5": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 5",
+      "alias": "Boss Mirror Flying Pot 5",
       "type": "jar",
       "settings": [
         {
@@ -3584,7 +3584,7 @@
     "Spirit Temple Big Mirror Flying Pot 6": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Flying Pot 6",
+      "alias": "Boss Mirror Flying Pot 6",
       "type": "jar",
       "settings": [
         {
@@ -3719,7 +3719,7 @@
     "Spirit Temple Topmost Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Sun Chest",
+      "alias": "Top Sun Chest",
       "type": "item",
       "settings": [
         {
@@ -3953,7 +3953,7 @@
     "Spirit Temple MQ Child Torch Slugs Room Pot": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Child Torch Slug Pot",
+      "alias": "Child Torch Slug Pot",
       "type": "jar",
       "settings": [
         {
@@ -4036,7 +4036,7 @@
     "Spirit Temple MQ Child Recovery Heart 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Child Torch Slug Freestanding 1",
+      "alias": "Child Flames Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -4067,7 +4067,7 @@
     "Spirit Temple MQ Child Recovery Heart 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Child Torch Slug Freestanding 2",
+      "alias": "Child Flames Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -4176,7 +4176,7 @@
     "Spirit Temple MQ Child 3 Gibdo Room Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Loop Gibdo Pot 1",
+      "alias": "Child Gibdo Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4207,7 +4207,7 @@
     "Spirit Temple MQ Child 3 Gibdo Room Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Loop Gibdo Pot 2",
+      "alias": "Child Gibdo Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4549,7 +4549,7 @@
     "Spirit Temple MQ Map Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Child Anubis Chest",
+      "alias": "Early Child Floating Mummy Chest",
       "type": "map",
       "settings": [
         {
@@ -4570,7 +4570,7 @@
     "Spirit Temple MQ Map Room Enemy Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Early Child Anubis Room Enemies Chest",
+      "alias": "Early Child Enemies Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -4778,7 +4778,7 @@
     "Spirit Temple MQ Child Climb North Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Climb Lower Chest",
+      "alias": "Child Climb Floor Chest",
       "type": "item",
       "settings": [
         {
@@ -4799,7 +4799,7 @@
     "Spirit Temple MQ Central Chamber Floor Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Floor Pot 1",
+      "alias": "Statue Floor Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4830,7 +4830,7 @@
     "Spirit Temple MQ Central Chamber Floor Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Floor Pot 2",
+      "alias": "Statue Floor Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4861,7 +4861,7 @@
     "Spirit Temple MQ Central Chamber Floor Pot 3": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Floor Pot 3",
+      "alias": "Statue Floor Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -4928,7 +4928,7 @@
     "Spirit Temple MQ Central Chamber Crate 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Floor Crate 1",
+      "alias": "Statue Floor Crate 1",
       "type": "crate",
       "settings": [
         {
@@ -4959,7 +4959,7 @@
     "Spirit Temple MQ Central Chamber Crate 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Floor Crate 2",
+      "alias": "Statue Floor Crate 2",
       "type": "crate",
       "settings": [
         {
@@ -5160,7 +5160,7 @@
     "Spirit Temple MQ Compass Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Eye Switch Chest",
+      "alias": "Statue Eye Switch Chest",
       "type": "compass",
       "settings": [
         {
@@ -5233,7 +5233,7 @@
     "Spirit Temple MQ Silver Block Hallway Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Heavy Block Hallway Chest",
+      "alias": "Silver Block Hallway Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -5446,7 +5446,7 @@
     "Spirit Temple MQ Sun Block Room Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Sun Block Room Chest",
+      "alias": "Sun Block Chest",
       "type": "item",
       "settings": [
         {
@@ -5467,7 +5467,7 @@
     "Spirit Temple MQ GS Sun Block Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Sun Block Room GS",
+      "alias": "Sun Block Room",
       "type": "skulltula",
       "settings": [
         {
@@ -5571,7 +5571,7 @@
     "Spirit Temple MQ Statue Room Lullaby Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Lullaby Chest",
+      "alias": "Central Room Lullaby Chest",
       "type": "item",
       "settings": [
         {
@@ -5592,7 +5592,7 @@
     "Spirit Temple MQ Statue Room Invisible Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Statue Room Top Right Invisible Chest",
+      "alias": "Central Room Ledge Invisible Chest",
       "type": "item",
       "settings": [
         {
@@ -5639,7 +5639,7 @@
     "Spirit Temple MQ Child Climb South Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Climb Upper Chest",
+      "alias": "Child Climb Ledge Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -5660,7 +5660,7 @@
     "Spirit Temple MQ Child Hammer Switch Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Child Hammer Switch Chest",
+      "alias": "Paradox Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -6121,7 +6121,7 @@
     "Spirit Temple MQ GS Leever Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Leever Pit GS",
+      "alias": "Leever Pit",
       "type": "skulltula",
       "settings": [
         {
@@ -6433,7 +6433,7 @@
     "Spirit Temple MQ GS Symphony Room": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Symphony Room GS",
+      "alias": "Symphony Room",
       "type": "skulltula",
       "settings": [
         {
@@ -6610,7 +6610,7 @@
     "Spirit Temple MQ Beamos Room Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Song of Time Puzzle Chest",
+      "alias": "Beamos Room Chest",
       "type": "item",
       "settings": [
         {
@@ -6870,7 +6870,7 @@
     "Spirit Temple MQ Boss Key Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Boss Key Chest",
+      "alias": "Gibdo Sun Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -6891,7 +6891,7 @@
     "Spirit Temple MQ Shifting Wall Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Pot 1",
+      "alias": "Shifting Walls Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -6922,7 +6922,7 @@
     "Spirit Temple MQ Shifting Wall Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Pot 2",
+      "alias": "Shifting Walls Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -6953,7 +6953,7 @@
     "Spirit Temple MQ Adult Climb Silver Rupee 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Silver Rupee 1",
+      "alias": "Shifting Walls Silver Rupee 1",
       "type": "item",
       "settings": [
         {
@@ -6989,7 +6989,7 @@
     "Spirit Temple MQ Adult Climb Silver Rupee 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Silver Rupee 2",
+      "alias": "Shifting Walls Silver Rupee 2",
       "type": "item",
       "settings": [
         {
@@ -7025,7 +7025,7 @@
     "Spirit Temple MQ Adult Climb Silver Rupee 3": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Silver Rupee 3",
+      "alias": "Shifting Walls Silver Rupee 3",
       "type": "item",
       "settings": [
         {
@@ -7061,7 +7061,7 @@
     "Spirit Temple MQ Adult Climb Silver Rupee 4": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Silver Rupee 4",
+      "alias": "Shifting Walls Silver Rupee 4",
       "type": "item",
       "settings": [
         {
@@ -7097,7 +7097,7 @@
     "Spirit Temple MQ Adult Climb Silver Rupee 5": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "shifting wall Silver Rupee 5",
+      "alias": "Shifting Walls Silver Rupee 5",
       "type": "item",
       "settings": [
         {
@@ -7263,7 +7263,7 @@
     "Spirit Temple MQ After Shifting Wall Room Pot 1": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Outside Thrones Room Pot 1",
+      "alias": "Thrones Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -7294,7 +7294,7 @@
     "Spirit Temple MQ After Shifting Wall Room Pot 2": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Outside Thrones Room Pot 2",
+      "alias": "Thrones Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -7351,7 +7351,7 @@
     "Spirit Temple MQ GS Nine Thrones Room West": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Thrones Room GS 1",
+      "alias": "Thrones Room 1",
       "type": "skulltula",
       "settings": [
         {
@@ -7403,7 +7403,7 @@
     "Spirit Temple MQ GS Nine Thrones Room North": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Thrones Room GS 2",
+      "alias": "Thrones Room 2",
       "type": "skulltula",
       "settings": [
         {
@@ -7807,7 +7807,7 @@
     "Spirit Temple MQ Mirror Puzzle Invisible Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Big Mirror Invisible Chest",
+      "alias": "Top Invisible Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -7828,7 +7828,7 @@
     "Spirit Temple Silver Gauntlets Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Silver Gauntlets Chest",
+      "alias": "Colossus Right Hand",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -7843,7 +7843,7 @@
     "Spirit Temple Mirror Shield Chest": {
       "area": "",
       "lKey": "Desert Colossus -> Spirit Temple Lobby",
-      "alias": "Mirror Shield Chest",
+      "alias": "Colossus Left Hand",
       "type": "item",
       "settings": [],
       "visible": true,

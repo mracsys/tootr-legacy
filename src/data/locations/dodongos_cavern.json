@@ -469,7 +469,7 @@
     "Dodongos Cavern GS Scarecrow": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Scarecrow GS",
+      "alias": "Scarecrow",
       "type": "skulltula",
       "settings": [
         {
@@ -599,7 +599,7 @@
     "Dodongos Cavern GS Side Room Near Lower Lizalfos": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Behind Bombable Wall GS",
+      "alias": "Bombable Wall Near Lobby",
       "type": "skulltula",
       "settings": [
         {
@@ -703,7 +703,7 @@
     "Dodongos Cavern Right Side Pot 5": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Room Before Lower Lizalfos Pot 1",
+      "alias": "Lower Right Side Pot 5",
       "type": "jar",
       "settings": [
         {
@@ -734,7 +734,7 @@
     "Dodongos Cavern Right Side Pot 6": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Room Before Lower Lizalfos Pot 2",
+      "alias": "Lower Right Side Pot 6",
       "type": "jar",
       "settings": [
         {
@@ -817,7 +817,7 @@
     "Dodongos Cavern Lower Lizalfos Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lower Lizalfos Pot 1",
+      "alias": "Early Lizalfos Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -848,7 +848,7 @@
     "Dodongos Cavern Lower Lizalfos Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lower Lizalfos Pot 2",
+      "alias": "Early Lizalfos Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -879,7 +879,7 @@
     "Dodongos Cavern Lower Lizalfos Pot 3": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lower Lizalfos Pot 3",
+      "alias": "Early Lizalfos Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -910,7 +910,7 @@
     "Dodongos Cavern Lower Lizalfos Pot 4": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lower Lizalfos Pot 4",
+      "alias": "Early Lizalfos Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -1236,7 +1236,7 @@
     "Dodongos Cavern Compass Chest": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Armos Room Chest",
+      "alias": "Armos Chest",
       "type": "compass",
       "settings": [
         {
@@ -1381,7 +1381,7 @@
     "Dodongos Cavern GS Vines Above Stairs": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Vines Above Stairs GS",
+      "alias": "Vines",
       "type": "skulltula",
       "settings": [
         {
@@ -1459,7 +1459,7 @@
     "Dodongos Cavern GS Alcove Above Stairs": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Alcove Above Stairs GS",
+      "alias": "Alcove",
       "type": "skulltula",
       "settings": [
         {
@@ -1797,7 +1797,7 @@
     "Dodongos Cavern Deku Scrub Near Bomb Bag Left": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Room Below Bomb Bag Left Scrub",
+      "alias": "Top Level Left Scrub",
       "type": "item",
       "settings": [
         {
@@ -1833,7 +1833,7 @@
     "Dodongos Cavern Deku Scrub Near Bomb Bag Right": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Room Below Bomb Bag Right Scrub",
+      "alias": "Top Level Right Scrub",
       "type": "item",
       "settings": [
         {
@@ -1869,7 +1869,7 @@
     "Dodongos Cavern Single Eye Switch Room Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Single Eye Switch Room Pot 1",
+      "alias": "Late Lizalfos Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -1900,7 +1900,7 @@
     "Dodongos Cavern Single Eye Switch Room Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Single Eye Switch Room Pot 2",
+      "alias": "Late Lizalfos Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2149,7 +2149,7 @@
     "Dodongos Cavern Double Eye Switch Room Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Eye Switch Room Pot 1",
+      "alias": "Late Lizalfos Exit Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2180,7 +2180,7 @@
     "Dodongos Cavern Double Eye Switch Room Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Eye Switch Room Pot 2",
+      "alias": "Late Lizalfos Exit Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2232,7 +2232,7 @@
     "Dodongos Cavern Blade Room Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Above Bomb Bag Chest Pot 1",
+      "alias": "Blade Room Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2263,7 +2263,7 @@
     "Dodongos Cavern Blade Room Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Above Bomb Bag Chest Pot 2",
+      "alias": "Blade Room Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2471,7 +2471,7 @@
     "Dodongos Cavern GS Back Room": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Back Room GS",
+      "alias": "Back Room",
       "type": "skulltula",
       "settings": [
         {
@@ -2523,7 +2523,7 @@
     "Dodongos Cavern Last Block Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Before Boss Block Pot 1",
+      "alias": "Boss Lobby Block Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2554,7 +2554,7 @@
     "Dodongos Cavern Last Block Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Before Boss Block Pot 2",
+      "alias": "Boss Lobby Block Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2585,7 +2585,7 @@
     "Dodongos Cavern Last Block Pot 3": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Before Boss Block Pot 3",
+      "alias": "Boss Lobby Block Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -2652,7 +2652,7 @@
     "Dodongos Cavern MQ Deku Scrub Lobby Front": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lobby Scrub 1",
+      "alias": "Lobby Front Scrub",
       "type": "item",
       "settings": [
         {
@@ -2688,7 +2688,7 @@
     "Dodongos Cavern MQ Deku Scrub Lobby Rear": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Lobby Scrub 2",
+      "alias": "Lobby Rear Scrub",
       "type": "item",
       "settings": [
         {
@@ -3113,7 +3113,7 @@
     "Dodongos Cavern MQ GS Song of Time Block Room": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Song of Time Block Room GS",
+      "alias": "Song of Time Block Room",
       "type": "skulltula",
       "settings": [
         {
@@ -3521,7 +3521,7 @@
     "Dodongos Cavern MQ Deku Scrub Staircase": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Above Staircase Scrub",
+      "alias": "Staircase Scrub",
       "type": "item",
       "settings": [
         {
@@ -3739,7 +3739,7 @@
     "Dodongos Cavern MQ Compass Chest": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Upper Dodongo Room Chest",
+      "alias": "Upper Dodongo Chest",
       "type": "compass",
       "settings": [
         {
@@ -4284,7 +4284,7 @@
     "Dodongos Cavern MQ Before Upper Lizalfos Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Single Pillar Pot 1",
+      "alias": "Upper Lizalfos Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4315,7 +4315,7 @@
     "Dodongos Cavern MQ Before Upper Lizalfos Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Single Pillar Pot 2",
+      "alias": "Upper Lizalfos Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4652,7 +4652,7 @@
     "Dodongos Cavern MQ After Upper Lizalfos Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Fire Pillar Pot 1",
+      "alias": "Upper Lizalfos Exit Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4683,7 +4683,7 @@
     "Dodongos Cavern MQ After Upper Lizalfos Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Fire Pillar Pot 2",
+      "alias": "Upper Lizalfos Exit Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4714,7 +4714,7 @@
     "Dodongos Cavern MQ After Upper Lizalfos Crate 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Fire Pillar Crate 1",
+      "alias": "Upper Lizalfos Exit Crate 1",
       "type": "crate",
       "settings": [
         {
@@ -4745,7 +4745,7 @@
     "Dodongos Cavern MQ After Upper Lizalfos Crate 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Double Fire Pillar Crate 2",
+      "alias": "Upper Lizalfos Exit Crate 2",
       "type": "crate",
       "settings": [
         {
@@ -4828,7 +4828,7 @@
     "Dodongos Cavern MQ GS Lizalfos Room": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Upper Lizalfos Room GS",
+      "alias": "Upper Lizalfos Room",
       "type": "skulltula",
       "settings": [
         {
@@ -4942,7 +4942,7 @@
     "Dodongos Cavern MQ Torch Puzzle Room Chest": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Above Larva Room Door Chest",
+      "alias": "Torch Puzzle Chest",
       "type": "item",
       "settings": [
         {
@@ -4963,7 +4963,7 @@
     "Dodongos Cavern MQ Right Side Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Right Side Pot 1",
+      "alias": "Lower Right Side Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4994,7 +4994,7 @@
     "Dodongos Cavern MQ Right Side Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Right Side Pot 2",
+      "alias": "Lower Right Side Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -5113,7 +5113,7 @@
     "Dodongos Cavern MQ Right Side Pot 3": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Right Side Pot 3",
+      "alias": "Lower Right Side Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -5144,7 +5144,7 @@
     "Dodongos Cavern MQ Right Side Pot 4": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Right Side Pot 4",
+      "alias": "Lower Right Side Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -5440,7 +5440,7 @@
     "Dodongos Cavern MQ GS Scrub Room": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Scrub Room GS",
+      "alias": "Hostile Scrub Room",
       "type": "skulltula",
       "settings": [
         {
@@ -5999,7 +5999,7 @@
     "Dodongos Cavern MQ Armos Army Room Pot 1": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Back Loop Pot 1",
+      "alias": "Armos Room Pot Lower 1",
       "type": "jar",
       "settings": [
         {
@@ -6030,7 +6030,7 @@
     "Dodongos Cavern MQ Armos Army Room Pot 2": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Back Loop Pot 2",
+      "alias": "Armos Room Pot Lower 2",
       "type": "jar",
       "settings": [
         {
@@ -6347,7 +6347,7 @@
     "Dodongos Cavern MQ GS Back Area": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Above Armos Army GS",
+      "alias": "Back Room Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -6487,7 +6487,7 @@
     "Dodongos Cavern MQ Under Grave Chest": {
       "area": "",
       "lKey": "Death Mountain -> Dodongos Cavern Beginning",
-      "alias": "Back Poe Room Grave Chest",
+      "alias": "Under Grave Chest",
       "type": "item",
       "settings": [
         {

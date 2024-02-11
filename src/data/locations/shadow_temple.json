@@ -28,7 +28,7 @@
     "Shadow Temple Whispering Walls Front Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Pot 1",
+      "alias": "Early Redead Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -59,7 +59,7 @@
     "Shadow Temple Whispering Walls Front Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Pot 2",
+      "alias": "Early Redead Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -189,7 +189,7 @@
     "Shadow Temple Map Chest Room Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Redead Chest Pot 1",
+      "alias": "Early Redead Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -220,7 +220,7 @@
     "Shadow Temple Map Chest Room Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Redead Chest Pot 2",
+      "alias": "Early Redead Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -251,7 +251,7 @@
     "Shadow Temple Whispering Walls Flying Pot": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Flying Pot",
+      "alias": "Dead Hand Lobby Flying Pot",
       "type": "jar",
       "settings": [
         {
@@ -282,7 +282,7 @@
     "Shadow Temple Whispering Walls Left Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Second Room Pot 1",
+      "alias": "Dead Hand Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -313,7 +313,7 @@
     "Shadow Temple Whispering Walls Left Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Second Room Pot 2",
+      "alias": "Dead Hand Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -344,7 +344,7 @@
     "Shadow Temple Whispering Walls Left Pot 3": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Second Room Pot 3",
+      "alias": "Dead Hand Lobby Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -531,7 +531,7 @@
     "Shadow Temple Compass Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Gibdo Room Chest",
+      "alias": "Early Gibdo Chest",
       "type": "compass",
       "settings": [
         {
@@ -732,7 +732,7 @@
     "Shadow Temple Early Silver Rupee Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Scythe Shortcut Chest",
+      "alias": "Spinning Blades Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -1039,7 +1039,7 @@
     "Shadow Temple Invisible Blades Recovery Heart 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Freestanding 1",
+      "alias": "Invisible Blades Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -1070,7 +1070,7 @@
     "Shadow Temple Invisible Blades Recovery Heart 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Freestanding 2",
+      "alias": "Invisible Blades Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -1101,7 +1101,7 @@
     "Shadow Temple Invisible Blades Visible Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Visible Chest",
+      "alias": "Invisible Blades Left Chest",
       "type": "item",
       "settings": [
         {
@@ -1122,7 +1122,7 @@
     "Shadow Temple Invisible Blades Invisible Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Invisible Chest",
+      "alias": "Invisible Blades Right Chest",
       "type": "item",
       "settings": [
         {
@@ -1484,7 +1484,7 @@
     "Shadow Temple GS Falling Spikes Room": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Falling Spikes GS",
+      "alias": "Falling Spikes",
       "type": "skulltula",
       "settings": [
         {
@@ -1997,7 +1997,7 @@
     "Shadow Temple GS Single Giant Pot": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Signle Giant Pot GS",
+      "alias": "Behind Bombable Pot",
       "type": "skulltula",
       "settings": [
         {
@@ -2049,7 +2049,7 @@
     "Shadow Temple Freestanding Key": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Single Giant Pot Item",
+      "alias": "Bombable Pot Freestanding Item",
       "type": "smallKey",
       "settings": [
         {
@@ -2148,7 +2148,7 @@
     "Shadow Temple Wind Hint Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Wind Hint Chest",
+      "alias": "After Fans Chest",
       "type": "item",
       "settings": [
         {
@@ -2221,7 +2221,7 @@
     "Shadow Temple After Wind Enemy Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Gibdo Chest",
+      "alias": "Bombable Terrain Chest",
       "type": "item",
       "settings": [
         {
@@ -2242,7 +2242,7 @@
     "Shadow Temple After Wind Flying Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Flying Pot 1",
+      "alias": "Late Gibdo Flying Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2273,7 +2273,7 @@
     "Shadow Temple After Wind Flying Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Flying Pot 2",
+      "alias": "Late Gibdo Flying Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2304,7 +2304,7 @@
     "Shadow Temple After Wind Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Pot 1",
+      "alias": "Late Gibdo Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2335,7 +2335,7 @@
     "Shadow Temple After Wind Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Pot 2",
+      "alias": "Late Gibdo Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2366,7 +2366,7 @@
     "Shadow Temple After Wind Hidden Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Hidden Chest",
+      "alias": "Late Gibdo Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -2449,7 +2449,7 @@
     "Shadow Temple GS Near Ship": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Scarecrow GS",
+      "alias": "Scarecrow",
       "type": "skulltula",
       "settings": [
         {
@@ -2672,7 +2672,7 @@
     "Shadow Temple Spike Walls Pot": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Pot",
+      "alias": "Flammable Walls Pot",
       "type": "jar",
       "settings": [
         {
@@ -2729,7 +2729,7 @@
     "Shadow Temple Spike Walls Left Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Left Chest",
+      "alias": "Flammable Walls Left Chest",
       "type": "item",
       "settings": [
         {
@@ -2776,7 +2776,7 @@
     "Shadow Temple Boss Key Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Right Chest",
+      "alias": "Flammable Walls Right Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -2797,7 +2797,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 1",
+      "alias": "Triple Bombable Pots Item 1",
       "type": "item",
       "settings": [
         {
@@ -2828,7 +2828,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 2",
+      "alias": "Triple Bombable Pots Item 2",
       "type": "item",
       "settings": [
         {
@@ -2859,7 +2859,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 3": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 3",
+      "alias": "Triple Bombable Pots Item 3",
       "type": "item",
       "settings": [
         {
@@ -2890,7 +2890,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 4": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 4",
+      "alias": "Triple Bombable Pots Item 4",
       "type": "item",
       "settings": [
         {
@@ -2921,7 +2921,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 5": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 5",
+      "alias": "Triple Bombable Pots Item 5",
       "type": "item",
       "settings": [
         {
@@ -2952,7 +2952,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 6": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 6",
+      "alias": "Triple Bombable Pots Item 6",
       "type": "item",
       "settings": [
         {
@@ -2983,7 +2983,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 7": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 7",
+      "alias": "Triple Bombable Pots Item 7",
       "type": "item",
       "settings": [
         {
@@ -3014,7 +3014,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 8": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 8",
+      "alias": "Triple Bombable Pots Item 8",
       "type": "item",
       "settings": [
         {
@@ -3045,7 +3045,7 @@
     "Shadow Temple 3 Spinning Pots Rupee 9": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 9",
+      "alias": "Triple Bombable Pots Item 9",
       "type": "item",
       "settings": [
         {
@@ -3102,7 +3102,7 @@
     "Shadow Temple GS Triple Giant Pot": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots GS",
+      "alias": "Triple Bombable Pots",
       "type": "skulltula",
       "settings": [
         {
@@ -3180,7 +3180,7 @@
     "Shadow Temple Invisible Floormaster Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Floormaster Chest",
+      "alias": "Floormaster Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -3201,7 +3201,7 @@
     "Shadow Temple Invisible Floormaster Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Floormaster Pot 1",
+      "alias": "Floormaster Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3232,7 +3232,7 @@
     "Shadow Temple Invisible Floormaster Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Floormaster Pot 2",
+      "alias": "Floormaster Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -3263,7 +3263,7 @@
     "Shadow Temple Near Boss Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Near Boss Pot 1",
+      "alias": "Boss Lobby Entrance Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3294,7 +3294,7 @@
     "Shadow Temple Near Boss Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Near Boss Pot 2",
+      "alias": "Boss Lobby Entrance Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -3925,7 +3925,7 @@
     "Shadow Temple MQ Map Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Scythe Shortcut Chest",
+      "alias": "Spinning Blades Chest",
       "type": "map",
       "settings": [
         {
@@ -4055,7 +4055,7 @@
     "Shadow Temple MQ Whispering Walls Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Pot 1",
+      "alias": "Early Redead Lobby Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4086,7 +4086,7 @@
     "Shadow Temple MQ Whispering Walls Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Whispering Walls Pot 2",
+      "alias": "Early Redead Lobby Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4221,7 +4221,7 @@
     "Shadow Temple MQ Compass Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Redead Room Chest",
+      "alias": "Early Redead Chest",
       "type": "compass",
       "settings": [
         {
@@ -4242,7 +4242,7 @@
     "Shadow Temple MQ Compass Room Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Redead Room Pot 1",
+      "alias": "Early Redead Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -4273,7 +4273,7 @@
     "Shadow Temple MQ Compass Room Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Early Redead Room Pot 2",
+      "alias": "Early Redead Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -4392,7 +4392,7 @@
     "Shadow Temple MQ Hover Boots Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "First Dead Hand Chest",
+      "alias": "Dead Hand 1 Chest",
       "type": "item",
       "settings": [
         {
@@ -4673,7 +4673,7 @@
     "Shadow Temple MQ Invisible Blades Recovery Heart 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Freestanding 1",
+      "alias": "Invisible Blades Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -4704,7 +4704,7 @@
     "Shadow Temple MQ Invisible Blades Recovery Heart 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Freestanding 2",
+      "alias": "Invisible Blades Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -4735,7 +4735,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 1",
+      "alias": "Invisible Blades Silver Rupee Central 1",
       "type": "item",
       "settings": [
         {
@@ -4771,7 +4771,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 2",
+      "alias": "Invisible Blades Silver Rupee Central 2",
       "type": "item",
       "settings": [
         {
@@ -4807,7 +4807,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 3": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 3",
+      "alias": "Invisible Blades Silver Rupee Central 3",
       "type": "item",
       "settings": [
         {
@@ -4843,7 +4843,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 4": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 4",
+      "alias": "Invisible Blades Silver Rupee Central 4",
       "type": "item",
       "settings": [
         {
@@ -4879,7 +4879,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 5": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 5",
+      "alias": "Invisible Blades Silver Rupee Central 5",
       "type": "item",
       "settings": [
         {
@@ -4915,7 +4915,7 @@
     "Shadow Temple MQ Invisible Blades Silver Rupee 6": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Silver Rupee 6",
+      "alias": "Invisible Blades Silver Rupee Central 6",
       "type": "item",
       "settings": [
         {
@@ -5095,7 +5095,7 @@
     "Shadow Temple MQ Invisible Blades Visible Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Visible Chest",
+      "alias": "Invisible Blades Left Chest",
       "type": "item",
       "settings": [
         {
@@ -5116,7 +5116,7 @@
     "Shadow Temple MQ Invisible Blades Invisible Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Invisible Scythe Invisible Chest",
+      "alias": "Invisible Blades Right Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -5343,7 +5343,7 @@
     "Shadow Temple MQ Beamos Silver Rupees Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Huge Pit Silver Rupees Chest",
+      "alias": "Beamos Silver Rupees Chest",
       "type": "item",
       "settings": [
         {
@@ -5447,7 +5447,7 @@
     "Shadow Temple MQ GS Falling Spikes Room": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Falling Spikes GS",
+      "alias": "Falling Spikes",
       "type": "skulltula",
       "settings": [
         {
@@ -6239,7 +6239,7 @@
     "Shadow Temple MQ Wind Hint Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Wind Hint Chest",
+      "alias": "After Fans Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -6260,7 +6260,7 @@
     "Shadow Temple MQ GS Wind Hint Room": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Wind Hint GS",
+      "alias": "After Fans",
       "type": "skulltula",
       "settings": [
         {
@@ -6364,7 +6364,7 @@
     "Shadow Temple MQ After Wind Enemy Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Gibdo Chest",
+      "alias": "Late Gibdo Chest",
       "type": "item",
       "settings": [
         {
@@ -6385,7 +6385,7 @@
     "Shadow Temple MQ After Wind Flying Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Flying Pot 1",
+      "alias": "Late Gibdo Flying Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -6416,7 +6416,7 @@
     "Shadow Temple MQ After Wind Flying Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Flying Pot 2",
+      "alias": "Late Gibdo Flying Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -6447,7 +6447,7 @@
     "Shadow Temple MQ After Wind Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Pot 1",
+      "alias": "Late Gibdo Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -6478,7 +6478,7 @@
     "Shadow Temple MQ After Wind Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Pot 2",
+      "alias": "Late Gibdo Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -6509,7 +6509,7 @@
     "Shadow Temple MQ After Wind Hidden Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind Hidden Chest",
+      "alias": "Bombable Terrain Chest",
       "type": "item",
       "settings": [
         {
@@ -6530,7 +6530,7 @@
     "Shadow Temple MQ GS After Wind": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Wind GS",
+      "alias": "Bombable Terrain",
       "type": "skulltula",
       "settings": [
         {
@@ -6722,7 +6722,7 @@
     "Shadow Temple MQ After Boat Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Boat Pot 1",
+      "alias": "Fallen Pillar Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -6753,7 +6753,7 @@
     "Shadow Temple MQ After Boat Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Boat Pot 2",
+      "alias": "Fallen Pillar Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -6784,7 +6784,7 @@
     "Shadow Temple MQ GS After Ship": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "After Boat Chasm GS",
+      "alias": "Fallen Statue",
       "type": "skulltula",
       "settings": [
         {
@@ -6836,7 +6836,7 @@
     "Shadow Temple MQ Near Boss Pot 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Near Boss Pot 1",
+      "alias": "Boss Lobby Entrance Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -6867,7 +6867,7 @@
     "Shadow Temple MQ Near Boss Pot 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Near Boss Pot 2",
+      "alias": "Boss Lobby Entrance Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -7069,7 +7069,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 1": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 1",
+      "alias": "Three Spinning Pots Item 1",
       "type": "item",
       "settings": [
         {
@@ -7100,7 +7100,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 2": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 2",
+      "alias": "Three Spinning Pots Item 2",
       "type": "item",
       "settings": [
         {
@@ -7131,7 +7131,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 3": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 3",
+      "alias": "Three Spinning Pots Item 3",
       "type": "item",
       "settings": [
         {
@@ -7162,7 +7162,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 4": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 4",
+      "alias": "Three Spinning Pots Item 4",
       "type": "item",
       "settings": [
         {
@@ -7193,7 +7193,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 5": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 5",
+      "alias": "Three Spinning Pots Item 5",
       "type": "item",
       "settings": [
         {
@@ -7224,7 +7224,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 6": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 6",
+      "alias": "Three Spinning Pots Item 6",
       "type": "item",
       "settings": [
         {
@@ -7255,7 +7255,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 7": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 7",
+      "alias": "Three Spinning Pots Item 7",
       "type": "item",
       "settings": [
         {
@@ -7286,7 +7286,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 8": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 8",
+      "alias": "Three Spinning Pots Item 8",
       "type": "item",
       "settings": [
         {
@@ -7317,7 +7317,7 @@
     "Shadow Temple MQ 3 Spinning Pots Rupee 9": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots Item 9",
+      "alias": "Three Spinning Pots Item 9",
       "type": "item",
       "settings": [
         {
@@ -7348,7 +7348,7 @@
     "Shadow Temple MQ Freestanding Key": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Triple Giant Pots GS",
+      "alias": "Three Spinning Pots",
       "type": "smallKey",
       "settings": [
         {
@@ -7395,7 +7395,7 @@
     "Shadow Temple MQ Spike Walls Pot": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Pot",
+      "alias": "Flammable Walls Pot",
       "type": "jar",
       "settings": [
         {
@@ -7634,7 +7634,7 @@
     "Shadow Temple MQ Spike Walls Left Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Left Chest",
+      "alias": "Flammable Walls Left Chest",
       "type": "item",
       "settings": [
         {
@@ -7655,7 +7655,7 @@
     "Shadow Temple MQ Boss Key Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Spike Walls Right Chest",
+      "alias": "Flammable Walls Right Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -7764,7 +7764,7 @@
     "Shadow Temple MQ Bomb Flower Chest": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Second Dead Hand Chest",
+      "alias": "Dead Hand 2 Chest",
       "type": "item",
       "settings": [
         {
@@ -7785,7 +7785,7 @@
     "Shadow Temple MQ GS Near Boss": {
       "area": "",
       "lKey": "Graveyard Warp Pad Region -> Shadow Temple Entryway",
-      "alias": "Boss Lobby GS",
+      "alias": "Boss Lobby",
       "type": "skulltula",
       "settings": [
         {

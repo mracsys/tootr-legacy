@@ -434,7 +434,7 @@
     "Deku Tree Compass Chest": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Top Room Chest 1",
+      "alias": "Top Floor Chest 1",
       "type": "compass",
       "settings": [
         {
@@ -455,7 +455,7 @@
     "Deku Tree Compass Room Side Chest": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Top Room Chest 2",
+      "alias": "Top Floor Chest 2",
       "type": "item",
       "settings": [
         {
@@ -476,7 +476,7 @@
     "Deku Tree GS Compass Room": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Top Room GS",
+      "alias": "Compass Room",
       "type": "skulltula",
       "settings": [
         {
@@ -736,7 +736,7 @@
     "Deku Tree GS Basement Vines": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Basement Vines GS",
+      "alias": "Basement Vines",
       "type": "skulltula",
       "settings": [
         {
@@ -1308,7 +1308,7 @@
     "Deku Tree GS Basement Back Room": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Back Room GS",
+      "alias": "Back Room",
       "type": "skulltula",
       "settings": [
         {
@@ -1900,7 +1900,7 @@
     "Deku Tree MQ GS Lobby": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Lobby GS",
+      "alias": "Lobby",
       "type": "skulltula",
       "settings": [
         {
@@ -2373,7 +2373,7 @@
     "Deku Tree MQ Near Compass Room Recovery Heart": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Big Baba Room Freestanding",
+      "alias": "Spider Room Lobby",
       "type": "item",
       "settings": [
         {
@@ -2924,7 +2924,7 @@
     "Deku Tree MQ GS Compass Room": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Spider Room GS",
+      "alias": "Compass Room",
       "type": "skulltula",
       "settings": [
         {
@@ -3309,7 +3309,7 @@
     "Deku Tree MQ Before Spinning Log Chest": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Rotating Spike Room Front Chest",
+      "alias": "Before Log Chest",
       "type": "item",
       "settings": [
         {
@@ -4183,7 +4183,7 @@
     "Deku Tree MQ GS Basement Graves Room": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Graves Room Ceiling GS",
+      "alias": "Song of Time Ceiling",
       "type": "skulltula",
       "settings": [
         {
@@ -4417,7 +4417,7 @@
     "Deku Tree MQ GS Basement Back Room": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Basement Back Room GS",
+      "alias": "Back Room",
       "type": "skulltula",
       "settings": [
         {
@@ -4469,7 +4469,7 @@
     "Deku Tree MQ Deku Scrub": {
       "area": "",
       "lKey": "KF Outside Deku Tree -> Deku Tree Lobby",
-      "alias": "Basement Upper Ledge Scrub",
+      "alias": "Basement Scrub",
       "type": "item",
       "settings": [
         {

@@ -573,7 +573,7 @@
     "Fire Temple Big Lava Room Lower Open Door Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room North Lower Door Chest",
+      "alias": "Lava Room Open Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -594,7 +594,7 @@
     "Fire Temple GS Song of Time Room": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room North Song of Time Door GS",
+      "alias": "Lava Room Song of Time",
       "type": "skulltula",
       "settings": [
         {
@@ -672,7 +672,7 @@
     "Fire Temple Big Lava Room Blocked Door Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room South Bombable Wall Door Chest",
+      "alias": "Lava Room Bombable Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -693,7 +693,7 @@
     "Fire Temple Big Lava Room Pot 1": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room Upper Pot 1",
+      "alias": "Lava Room Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -724,7 +724,7 @@
     "Fire Temple Big Lava Room Pot 2": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room Upper Pot 2",
+      "alias": "Lava Room Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -755,7 +755,7 @@
     "Fire Temple Big Lava Room Pot 3": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room Upper Pot 3",
+      "alias": "Lava Room Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -786,7 +786,7 @@
     "Fire Temple Elevator Room Recovery Heart 1": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 1",
+      "alias": "Elevator Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -817,7 +817,7 @@
     "Fire Temple Elevator Room Recovery Heart 2": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 2",
+      "alias": "Elevator Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -848,7 +848,7 @@
     "Fire Temple Elevator Room Recovery Heart 3": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 3",
+      "alias": "Elevator Freestanding 3",
       "type": "item",
       "settings": [
         {
@@ -1077,7 +1077,7 @@
     "Fire Temple GS Boulder Maze": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Boulder Maze GS",
+      "alias": "Boulder Maze",
       "type": "skulltula",
       "settings": [
         {
@@ -1222,7 +1222,7 @@
     "Fire Temple Map Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Narrow Bridge Behind Eye Switch Door Chest",
+      "alias": "Racing Fire Chest",
       "type": "map",
       "settings": [
         {
@@ -1243,7 +1243,7 @@
     "Fire Temple Moving Fire Room Recovery Heart 1": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Moving Fire Room Freestanding 1",
+      "alias": "Racing Fire Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -1274,7 +1274,7 @@
     "Fire Temple Moving Fire Room Recovery Heart 2": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Moving Fire Room Freestanding 2",
+      "alias": "Racing Fire Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -1305,7 +1305,7 @@
     "Fire Temple Moving Fire Room Recovery Heart 3": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Moving Fire Room Freestanding 3",
+      "alias": "Racing Fire Freestanding 3",
       "type": "item",
       "settings": [
         {
@@ -1586,7 +1586,7 @@
     "Fire Temple GS Scarecrow Climb": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Scarecrow Climb Lower GS",
+      "alias": "Scarecrow Lower",
       "type": "skulltula",
       "settings": [
         {
@@ -1638,7 +1638,7 @@
     "Fire Temple GS Scarecrow Top": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Scarecrow Climb Upper GS",
+      "alias": "Scarecrow Upper",
       "type": "skulltula",
       "settings": [
         {
@@ -1690,7 +1690,7 @@
     "Fire Temple Scarecrow Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Scarecrow Climb Chest",
+      "alias": "Scarecrow Chest",
       "type": "item",
       "settings": [
         {
@@ -2266,7 +2266,7 @@
     "Fire Temple Megaton Hammer Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Hammer Chest",
+      "alias": "Highest Chest",
       "type": "item",
       "settings": [
         {
@@ -2359,7 +2359,7 @@
     "Fire Temple Highest Goron Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Song of Time Goron Jail Chest",
+      "alias": "Highest Goron Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -2588,7 +2588,7 @@
     "Fire Temple GS Boss Key Loop": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Lower Loop GS",
+      "alias": "Lower Loop",
       "type": "skulltula",
       "settings": [
         {
@@ -2666,7 +2666,7 @@
     "Fire Temple Flare Dancer Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Lower Flare Dancer Chest",
+      "alias": "Flare Dancer Chest",
       "type": "item",
       "settings": [
         {
@@ -2687,7 +2687,7 @@
     "Fire Temple Boss Key Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Boss Key Chest",
+      "alias": "Lower Loop Cage Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -3215,7 +3215,7 @@
     "Fire Temple MQ Megaton Hammer Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Lower Flare Dancer Chest",
+      "alias": "Flare Dancer Chest",
       "type": "item",
       "settings": [
         {
@@ -3526,7 +3526,7 @@
     "Fire Temple MQ Big Lava Room Left Pot": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room North Pot",
+      "alias": "Big Lava Pot",
       "type": "jar",
       "settings": [
         {
@@ -3557,7 +3557,7 @@
     "Fire Temple MQ GS Big Lava Room Open Door": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room North Lower Door GS",
+      "alias": "Lava Room Open Door",
       "type": "skulltula",
       "settings": [
         {
@@ -3609,7 +3609,7 @@
     "Fire Temple MQ Big Lava Room Alcove Pot": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room Upper Pot",
+      "alias": "Big Lava High Pot",
       "type": "jar",
       "settings": [
         {
@@ -3640,7 +3640,7 @@
     "Fire Temple MQ Boss Key Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Boss Key Chest",
+      "alias": "Lava Room Torch Chest",
       "type": "bossKey",
       "settings": [
         {
@@ -3780,7 +3780,7 @@
     "Fire Temple MQ Big Lava Room Right Pot": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room South Flame Wall Pot",
+      "alias": "Big Lava Flame Wall Pot",
       "type": "jar",
       "settings": [
         {
@@ -3811,7 +3811,7 @@
     "Fire Temple MQ Big Lava Room Blocked Door Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Big Lava Room South Flame Wall Door Chest",
+      "alias": "Lower Fire Wall Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -3832,7 +3832,7 @@
     "Fire Temple MQ Elevator Room Recovery Heart 1": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 1",
+      "alias": "Elevator Freestanding 1",
       "type": "item",
       "settings": [
         {
@@ -3863,7 +3863,7 @@
     "Fire Temple MQ Elevator Room Recovery Heart 2": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 2",
+      "alias": "Elevator Freestanding 2",
       "type": "item",
       "settings": [
         {
@@ -3894,7 +3894,7 @@
     "Fire Temple MQ Elevator Room Recovery Heart 3": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Push Block Elevator Freestanding 3",
+      "alias": "Elevator Freestanding 3",
       "type": "item",
       "settings": [
         {
@@ -4485,7 +4485,7 @@
     "Fire Temple MQ Lizalfos Maze Side Room Chest": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Lizalfos Maze Side Room Chest",
+      "alias": "Lizalfos Maze Blue Switch Chest",
       "type": "smallKey",
       "settings": [
         {
@@ -4869,7 +4869,7 @@
     "Fire Temple MQ GS Skull On Fire": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "On Fire Highest GS",
+      "alias": "Scarecrow",
       "type": "skulltula",
       "settings": [
         {
@@ -5815,7 +5815,7 @@
     "Fire Temple MQ Freestanding Key": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "Under Flare Dancer Elevator Freestanding Item",
+      "alias": "Flare Dancer Freestanding Item",
       "type": "smallKey",
       "settings": [
         {
@@ -5862,7 +5862,7 @@
     "Fire Temple MQ Chest On Fire": {
       "area": "",
       "lKey": "DMC Fire Temple Entrance -> Fire Temple Lower",
-      "alias": "On Fire Highest Chest",
+      "alias": "Highest Chest",
       "type": "smallKey",
       "settings": [
         {

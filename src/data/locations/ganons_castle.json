@@ -80,7 +80,7 @@
     "Ganons Castle Deku Scrub Left": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 1",
+      "alias": "Far Left Scrub",
       "type": "item",
       "settings": [
         {
@@ -116,7 +116,7 @@
     "Ganons Castle Deku Scrub Center-Left": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 2",
+      "alias": "Middle Left Scrub",
       "type": "item",
       "settings": [
         {
@@ -152,7 +152,7 @@
     "Ganons Castle Deku Scrub Center-Right": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 3",
+      "alias": "Middle Right Scrub",
       "type": "item",
       "settings": [
         {
@@ -188,7 +188,7 @@
     "Ganons Castle Deku Scrub Right": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub  4",
+      "alias": "Far Right Scrub",
       "type": "item",
       "settings": [
         {
@@ -250,7 +250,7 @@
     "Ganons Castle Forest Trial Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Forest Trial Wolfos Chest",
+      "alias": "Forest Trial Chest",
       "type": "item",
       "settings": [
         {
@@ -757,7 +757,7 @@
     "Ganons Castle Shadow Trial Front Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Shadow Trial First Chest",
+      "alias": "Shadow Trial 1st Chest",
       "type": "item",
       "settings": [
         {
@@ -866,7 +866,7 @@
     "Ganons Castle Shadow Trial Golden Gauntlets Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Shadow Trial Second Chest",
+      "alias": "Shadow Trial 2nd Chest",
       "type": "item",
       "settings": [
         {
@@ -2617,7 +2617,7 @@
     "Ganons Castle MQ Deku Scrub Left": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 1",
+      "alias": "Far Left Scrub",
       "type": "item",
       "settings": [
         {
@@ -2653,7 +2653,7 @@
     "Ganons Castle MQ Deku Scrub Center-Left": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 2",
+      "alias": "Middle Left Scrub",
       "type": "item",
       "settings": [
         {
@@ -2689,7 +2689,7 @@
     "Ganons Castle MQ Deku Scrub Center": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 3",
+      "alias": "Middle Scrub",
       "type": "item",
       "settings": [
         {
@@ -2725,7 +2725,7 @@
     "Ganons Castle MQ Deku Scrub Center-Right": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 4",
+      "alias": "Middle Right Scrub",
       "type": "item",
       "settings": [
         {
@@ -2761,7 +2761,7 @@
     "Ganons Castle MQ Deku Scrub Right": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Hidden Deku Scrub 5",
+      "alias": "Middle Right Scrub",
       "type": "item",
       "settings": [
         {
@@ -2870,7 +2870,7 @@
     "Ganons Castle MQ Forest Trial Eye Switch Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Forest Trial Eye Switch Chest",
+      "alias": "Forest Trial Early Eye Switch Chest",
       "type": "item",
       "settings": [
         {
@@ -3234,7 +3234,7 @@
     "Ganons Castle MQ Water Trial Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Water Trial Frozen Chest",
+      "alias": "Water Trial Chest",
       "type": "item",
       "settings": [
         {
@@ -3255,7 +3255,7 @@
     "Ganons Castle MQ Water Trial Recovery Heart": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Water Trial Frozen Freestanding",
+      "alias": "Water Trial Freestanding",
       "type": "item",
       "settings": [
         {
@@ -3658,7 +3658,7 @@
     "Ganons Castle MQ Shadow Trial Bomb Flower Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Shadow Trial Bomb Flower Chest",
+      "alias": "Shadow Trial 1st Chest",
       "type": "item",
       "settings": [
         {
@@ -3783,7 +3783,7 @@
     "Ganons Castle MQ Shadow Trial Eye Switch Chest": {
       "area": "",
       "lKey": "Ganons Castle Grounds -> Ganons Castle",
-      "alias": "Shadow Trial Eye Switch Chest",
+      "alias": "Shadow Trial 2nd Chest",
       "type": "smallKey",
       "settings": [
         {

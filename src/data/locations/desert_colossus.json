@@ -370,7 +370,7 @@
     "Colossus GS Tree": {
       "area": "Desert Colossus",
       "lKey": "",
-      "alias": "Tree GS",
+      "alias": "Oasis Tree",
       "type": "skulltula",
       "settings": [
         {
@@ -412,7 +412,7 @@
     "Colossus GS Hill": {
       "area": "Desert Colossus",
       "lKey": "",
-      "alias": "Top of Hill GS",
+      "alias": "Top of Hill",
       "type": "skulltula",
       "settings": [
         {

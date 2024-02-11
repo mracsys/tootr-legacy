@@ -853,7 +853,7 @@
     "Jabu Jabus Belly GS Water Switch Room": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Basement Switch Room GS",
+      "alias": "Basement Vines",
       "type": "skulltula",
       "settings": [
         {
@@ -1653,7 +1653,7 @@
     "Jabu Jabus Belly Compass Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Bubble Room Chest",
+      "alias": "Bubble Chest",
       "type": "compass",
       "settings": [
         {
@@ -1778,7 +1778,7 @@
     "Jabu Jabus Belly GS Lobby Basement Lower": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Basement Lower Wall GS",
+      "alias": "Basement Lower Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -1830,7 +1830,7 @@
     "Jabu Jabus Belly GS Lobby Basement Upper": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Basement Upper Wall GS",
+      "alias": "Basement Upper Wall",
       "type": "skulltula",
       "settings": [
         {
@@ -2188,7 +2188,7 @@
     "Jabu Jabus Belly GS Near Boss": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Boss Lobby GS",
+      "alias": "Boss Lobby",
       "type": "skulltula",
       "settings": [
         {
@@ -2510,7 +2510,7 @@
     "Jabu Jabus Belly MQ Map Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Lobby Boulder Switch Chest",
+      "alias": "Octorock Boulder Chest",
       "type": "map",
       "settings": [
         {
@@ -2604,7 +2604,7 @@
     "Jabu Jabus Belly MQ Recovery Heart 1": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Elevator Freestanding 1",
+      "alias": "Near Elevator Top Item 1",
       "type": "item",
       "settings": [
         {
@@ -2635,7 +2635,7 @@
     "Jabu Jabus Belly MQ Recovery Heart 2": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Elevator Freestanding 2",
+      "alias": "Near Elevator Top Item 2",
       "type": "item",
       "settings": [
         {
@@ -2718,7 +2718,7 @@
     "Jabu Jabus Belly MQ Second Room Lower Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Elevator Lower Chest",
+      "alias": "Near Elevator Chest",
       "type": "item",
       "settings": [
         {
@@ -2832,7 +2832,7 @@
     "Jabu Jabus Belly MQ Elevator Room Pot 1": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "After Underwater Cow Pot 1",
+      "alias": "Near Diving Cow Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -2863,7 +2863,7 @@
     "Jabu Jabus Belly MQ Elevator Room Pot 2": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "After Underwater Cow Pot 2",
+      "alias": "Near Diving Cow Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -2894,7 +2894,7 @@
     "Jabu Jabus Belly MQ Compass Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Underwater Cow Switch Chest",
+      "alias": "Diving Cow Chest",
       "type": "compass",
       "settings": [
         {
@@ -3227,7 +3227,7 @@
     "Jabu Jabus Belly MQ Basement Near Switches Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Basement Right Cow Switch Chest",
+      "alias": "Basement Cow Chest 1",
       "type": "item",
       "settings": [
         {
@@ -3326,7 +3326,7 @@
     "Jabu Jabus Belly MQ Basement Near Vines Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Basement Left Cow Switch Chest",
+      "alias": "Basement Cow Chest 2",
       "type": "item",
       "settings": [
         {
@@ -3498,7 +3498,7 @@
     "Jabu Jabus Belly MQ GS Boomerang Chest Room": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Song of Time Block GS",
+      "alias": "Song of Time Block",
       "type": "skulltula",
       "settings": [
         {
@@ -3659,7 +3659,7 @@
     "Jabu Jabus Belly MQ Falling Like Like Room Pot 1": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Falling Like Like Pot 1",
+      "alias": "Like Like Trap Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -3690,7 +3690,7 @@
     "Jabu Jabus Belly MQ Falling Like Like Room Pot 2": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Falling Like Like Pot 2",
+      "alias": "Like Like Trap Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -3929,7 +3929,7 @@
     "Jabu Jabus Belly MQ Falling Like Like Room Chest": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Falling Like Like Chest",
+      "alias": "Like Like Trap Chest",
       "type": "item",
       "settings": [
         {
@@ -4178,7 +4178,7 @@
     "Jabu Jabus Belly MQ GS Tailpasaran Room": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Tailsparan Room GS",
+      "alias": "Water Jet",
       "type": "skulltula",
       "settings": [
         {
@@ -4386,7 +4386,7 @@
     "Jabu Jabus Belly MQ GS Invisible Enemies Room": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Invisible Enemies Room GS",
+      "alias": "Invisible Enemies",
       "type": "skulltula",
       "settings": [
         {
@@ -4620,7 +4620,7 @@
     "Jabu Jabus Belly MQ Cow": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Wiggler Platforms Cow",
+      "alias": "After Big Octo Cow",
       "type": "item",
       "settings": [
         {
@@ -4978,7 +4978,7 @@
     "Jabu Jabus Belly MQ GS Near Boss": {
       "area": "",
       "lKey": "Zoras Fountain -> Jabu Jabus Belly Beginning",
-      "alias": "Boss Lobby GS",
+      "alias": "Boss Lobby",
       "type": "skulltula",
       "settings": [
         {
@@ -5030,7 +5030,7 @@
     "Jabu Jabus Belly Barinade Pot 1": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 1",
+      "alias": "Barinade Pot 1",
       "type": "jar",
       "settings": [
         {
@@ -5056,7 +5056,7 @@
     "Jabu Jabus Belly Barinade Pot 2": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 2",
+      "alias": "Barinade Pot 2",
       "type": "jar",
       "settings": [
         {
@@ -5082,7 +5082,7 @@
     "Jabu Jabus Belly Barinade Pot 3": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 3",
+      "alias": "Barinade Pot 3",
       "type": "jar",
       "settings": [
         {
@@ -5108,7 +5108,7 @@
     "Jabu Jabus Belly Barinade Pot 4": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 4",
+      "alias": "Barinade Pot 4",
       "type": "jar",
       "settings": [
         {
@@ -5134,7 +5134,7 @@
     "Jabu Jabus Belly Barinade Pot 5": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 5",
+      "alias": "Barinade Pot 5",
       "type": "jar",
       "settings": [
         {
@@ -5160,7 +5160,7 @@
     "Jabu Jabus Belly Barinade Pot 6": {
       "area": "",
       "lKey": "Jabu Jabus Belly -> Barinade",
-      "alias": "Pot 6",
+      "alias": "Barinade Pot 6",
       "type": "jar",
       "settings": [
         {

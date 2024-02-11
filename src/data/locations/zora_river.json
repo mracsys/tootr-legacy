@@ -418,7 +418,7 @@
     "ZR GS Tree": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Tree Bonk GS",
+      "alias": "Tree Bonk",
       "type": "skulltula",
       "settings": [
         {
@@ -549,7 +549,7 @@
     "ZR Near Open Grotto Freestanding PoH": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Lower Freestanding Item",
+      "alias": "Lower River Freestanding Item",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -564,7 +564,7 @@
     "ZR GS Near Raised Grottos": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Lower Adult GS",
+      "alias": "Lower Adult",
       "type": "skulltula",
       "settings": [
         {
@@ -669,7 +669,7 @@
     "ZR Frogs Zeldas Lullaby": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Frogs Zelda's Lullaby",
+      "alias": "Frogs Zeldas Lullaby",
       "type": "item",
       "settings": [
         {
@@ -690,7 +690,7 @@
     "ZR Frogs Eponas Song": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Frogs Epona's Song",
+      "alias": "Frogs Eponas Song",
       "type": "item",
       "settings": [
         {
@@ -711,7 +711,7 @@
     "ZR Frogs Sarias Song": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Frogs Saria's Song",
+      "alias": "Frogs Sarias Song",
       "type": "item",
       "settings": [
         {
@@ -732,7 +732,7 @@
     "ZR Frogs Suns Song": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Frogs Sun's Song",
+      "alias": "Frogs Suns Song",
       "type": "item",
       "settings": [
         {
@@ -774,7 +774,7 @@
     "ZR Frogs in the Rain": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Frogs Song of Storms",
+      "alias": "Frogs in the Rain",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -825,7 +825,7 @@
     "ZR GS Ladder": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Child Ladder GS",
+      "alias": "Ladder",
       "type": "skulltula",
       "settings": [
         {
@@ -867,7 +867,7 @@
     "ZR GS Above Bridge": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Upper Adult GS",
+      "alias": "Upper Adult",
       "type": "skulltula",
       "settings": [
         {
@@ -909,7 +909,7 @@
     "ZR Near Domain Freestanding PoH": {
       "area": "Zora River",
       "lKey": "",
-      "alias": "Upper Freestanding Item",
+      "alias": "Upper River Freestanding Item",
       "type": "item",
       "settings": [],
       "visible": true,

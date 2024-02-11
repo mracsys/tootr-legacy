@@ -1813,7 +1813,7 @@
     "HF GS Near Kak Grotto": {
       "area": "",
       "lKey": "Hyrule Field -> HF Near Kak Grotto",
-      "alias": "Grotto GS",
+      "alias": "Grotto Spider",
       "type": "skulltula",
       "settings": [
         {
@@ -1876,7 +1876,7 @@
     "HF Tektite Grotto Freestanding PoH": {
       "area": "",
       "lKey": "Hyrule Field -> HF Tektite Grotto",
-      "alias": "Deep Water Item",
+      "alias": "Freestanding Item",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -2027,7 +2027,7 @@
     "HF GS Cow Grotto": {
       "area": "",
       "lKey": "Hyrule Field -> HF Cow Grotto",
-      "alias": "Grotto GS",
+      "alias": "Grotto Spider",
       "type": "skulltula",
       "settings": [
         {

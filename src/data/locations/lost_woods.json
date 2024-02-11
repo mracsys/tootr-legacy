@@ -233,7 +233,7 @@
     "LW Skull Kid": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Play Saria's Song for Skull Kid",
+      "alias": "Skull Kid",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -337,7 +337,7 @@
     "LW GS Bean Patch Near Bridge": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Bean Patch Near Bridge GS",
+      "alias": "Bean Patch near Bridge",
       "type": "skulltula",
       "settings": [
         {
@@ -405,7 +405,7 @@
     "LW Deku Scrub Near Bridge": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Scrub Near Bridge",
+      "alias": "Scrub near Bridge",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -847,7 +847,7 @@
     "LW Deku Scrub Near Deku Theater Left": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Left Scrub Near Theater",
+      "alias": "Left Scrub near Theater",
       "type": "item",
       "settings": [
         {
@@ -878,7 +878,7 @@
     "LW Deku Scrub Near Deku Theater Right": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Right Scrub Near Theater",
+      "alias": "Right Scrub near Theater",
       "type": "item",
       "settings": [
         {
@@ -909,7 +909,7 @@
     "LW GS Bean Patch Near Theater": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Bean Patch Near Theater",
+      "alias": "Bean Patch near Theater",
       "type": "skulltula",
       "settings": [
         {
@@ -977,7 +977,7 @@
     "LW GS Above Theater": {
       "area": "Lost Woods",
       "lKey": "",
-      "alias": "Above Theater GS",
+      "alias": "Above Theater",
       "type": "skulltula",
       "settings": [
         {

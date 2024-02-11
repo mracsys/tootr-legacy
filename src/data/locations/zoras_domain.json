@@ -315,7 +315,7 @@
     "ZD Behind King Zora Beehive": {
       "area": "Zora's Domain",
       "lKey": "",
-      "alias": "Behind King Zora Beehive",
+      "alias": "Beehive 3",
       "type": "item",
       "settings": [
         {
@@ -408,7 +408,7 @@
     "ZD Chest": {
       "area": "Zora's Domain",
       "lKey": "",
-      "alias": "Torch Run Chest",
+      "alias": "Torch Run",
       "type": "item",
       "settings": [],
       "visible": true,
@@ -423,7 +423,7 @@
     "ZD GS Frozen Waterfall": {
       "area": "Zora's Domain",
       "lKey": "",
-      "alias": "Frozen Waterfall GS",
+      "alias": "Frozen Waterfall",
       "type": "skulltula",
       "settings": [
         {
