@@ -1,6 +1,6 @@
 # TOoTR - Track Ocarina of Time Randomizer
 
-https://mracsys.github.io/tootr/
+https://mracsys.github.io/tootr-legacy/
 
 Entrance and location tracker for Ocarina of Time Randomizer. Supports Dev-R fork-exclusive ER settings including decoupled entrances and mixed entrance pools.
 
